@@ -27,7 +27,6 @@ public class Main {
             if (speed > max_speed)
                 max_speed = speed;
         }
-
         System.out.println(max_speed);
     }
 }
